@@ -1,0 +1,81 @@
+ <!-- penyembuhan -->
+  <section class="pt-8 pt-md-11 bg-gradient-abuabu border-bottom pb-5 pt-3" id="Gejala & Solusi">
+    <div class="container text-left">
+      <div class="bgpenyembuhan" data-aos="flip-left">
+        <img src="images/undraw_Synchronize_re_4irq.svg" alt="">
+      </div>
+      <!-- Psikoterapi -->
+      <div class="info">
+        a class="btn btn-primary" data-toggle="collapse" href="#Psikoterapi" role="button" aria-expanded="false" aria-controls="Psikoterapi">
+          <i class="fas fa-user-md"></i> Psikoterapi
+        </a>
+        <div class="collapse show" id="Kondisi Cangkang Telur">
+          <div class="card card-body">
+            <p class="text-justify">Retak atau pecah:</p>
+            <li class="text-left">Berbintik atau bercak putih</li>
+            <li class="text-left">Pengalaman yang membuat tertekan</li> 
+            <li class="text-left">Kotoran menempel pada cangkang</li>
+            <li class="text-left">Warna cangkang tidak merata</li>
+          </div>
+        </div>
+      </div>
+      <!-- Obat Antidepresan -->
+      <div class="info">
+        <a class="btn btn-primary mt-2" data-toggle="collapse" href="#Berat dan Ukuran Telur" role="button" aria-expanded="false" aria-controls="Berat dan Ukuran Telur">
+          <i class="fas fa-pills"></i> Berat dan Ukuran Telur
+        </a>
+        <div class="collapse show" id="Obat">
+          <div class="card card-body">
+           
+            <li class="text-left">Terasa terlalu ringan</li>
+            <li class="text-left">Tidak sesuai dengan standar ukuran</li>
+           
+          </div>
+        </div>
+      </div>
+      <!-- Terapi kejut listrik -->
+      <div class="info">
+        <a class="btn btn-primary mt-2" data-toggle="collapse" href="#Terapi" role="button" aria-expanded="false" aria-controls="Psikoterapi">
+          <i class="fas fa-heartbeat"></i> Kondisi Saat Diterawang (Candling Test)
+        </a>
+        <div class="collapse show" id="Terapi">
+          <div class="card card-body">
+            <li class="text-left">Kuning telur tampak kabur atau bergeser</li>
+            <li class="text-left">Ada noda darah di dalam telur</li>
+            <li class="text-left">Rongga udara besar</li>
+          </div>
+        </div>
+      </div>
+      <!-- Komplikasi Depresi -->
+      <div class="info">
+        <a class="btn btn-primary mt-2" data-toggle="collapse" href="#Komplikasi" role="button" aria-expanded="false" aria-controls="Psikoterapi">
+          <i class="fas fa-diagnoses"></i> Kondisi Saat Dipecahkan
+        </a>
+        <div class="collapse show" id="Komplikasi">
+          <div class="card card-body">
+            <li class="text-left">Kuning telur tidak bulat atau melebar</li>
+            <li class="text-left">Putih telur encer dan menyebar</li>
+            <li class="text-left">Ada noda darah atau benda asing</li>
+          </div>
+        </div>
+      </div>
+      <!-- Pencegahan Depresi -->
+      <div class="info">
+        <a class="btn btn-primary mt-2" data-toggle="collapse" href="#Pencegahan" role="button" aria-expanded="false" aria-controls="Psikoterapi">
+          <i class="fas fa-brain"></i> Kesegaran Telur (Uji Apung)
+        </a>
+        <div class="collapse show" id="Pencegahan">
+          <div class="card card-body">
+           
+            
+            <li class="text-left">Tenggelam (segar)</li>
+            <li class="text-left">Mengapung sebagian (tidak segar)</li>
+            <li class="text-left">Mengapung penuh (rusak)</li>
+          </div>
+        </div>
+      </div>
+      
+
+    </div> <!-- / .container -->
+    
+  </section>
